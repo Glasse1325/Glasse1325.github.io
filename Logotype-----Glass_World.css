@@ -1,0 +1,17 @@
+.logo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 5px;
+
+  max-width: 100%;
+  height: auto;
+
+  background: url(Logotype_WEBsite.jpg);
+  border: 1px solid Blue;
+  height: 150px;
+  width: 150px;
+
+}
